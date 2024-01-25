@@ -35,9 +35,9 @@ it uses processed data.
  
 ## Design
 UML class diagram
-![](Img/6510545624 UML Class Diagram.jpeg)
+![](img/6510545624_UML_Class_Diagram.jpeg)
 Sequence diagram
-![](Img/6510545624 Seq Diagram.jpeg)
+![](img/6510545624_Seq_Diagram.jpeg)
 
 ## Design Patterns Used
 This program use facade pattern design. App class is a class that combines 
