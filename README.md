@@ -5,13 +5,13 @@ Bangkok-RealEstate is a program that allows users to estimate real estate prices
 districts in Bangkok and can also compare prices of 2 districts to help users 
 choose the right real estate for themselves.
 Main Menu
-![main_menu](Img/main_menu.png)
+![main_menu](img/main_menu.png)
 Estimate Menu
-![estimate_menu](Img/estimate_menu.png)
+![estimate_menu](img/estimate_menu.png)
 Compare Menu
-![compare_menu](Img/compare_menu.png)
+![compare_menu](img/compare_menu.png)
 Statistic Menu
-![statistic_menu](Img/statistic_menu.png)
+![statistic_menu](img/statistic_menu.png)
 ## Data Sources
 200k+ homes for sale in Thailand dataset from https://www.kaggle.com/datasets/polartech/200k-homes-for-sale-in-thailand.
 This dataset includes a lof of real estate ( 220557 row ) and
